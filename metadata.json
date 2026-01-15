@@ -1,0 +1,5 @@
+{
+  "name": "HyperGuess AI Edition",
+  "description": "Un juego de adivinanzas de números de próxima generación impulsado por Gemini AI, con un anfitrión ingenioso que te da pistas sarcásticas y útiles mientras intentas encontrar el número secreto.",
+  "requestFramePermissions": []
+}
